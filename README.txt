@@ -43,7 +43,7 @@ So the time would be 10 hours, and 20+1=21 minutes, or 10:21.
 
 Currently the watch only supports 12 hour time, and will not change if 24 hour time is selected.
 
-The time in the picture is 9:43!
+The time in the picture is 10:25!
 
 
 
